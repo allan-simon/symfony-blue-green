@@ -1678,7 +1678,7 @@
                 "dev-master": "3.0.x-dev"
             }
         },
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-0": {
                 "Sensio\\Bundle\\FrameworkExtraBundle": ""
